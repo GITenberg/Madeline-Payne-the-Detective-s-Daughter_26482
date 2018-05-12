@@ -1,0 +1,30 @@
+_repo: Madeline-Payne-the-Detective-s-Daughter_26482
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26482-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lynch, Lawrence L.
+    aliases:
+    - Murdoch van Deventer, E. (Emma)
+    - Deventer, Emma Murdoch van
+    - Van Deventer, E. M. (Emma Murdoch)
+    - Van Deventer, Emma Murdoch
+    gutenberg_agent_id: '31516'
+    url: http://www.gutenberg.org/2009/agents/31516
+description: ''
+gutenberg_issued: '2008-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: Madeline Payne, the Detective's Daughter
+url: http://www.gutenberg.org/ebooks/26482
